@@ -1,2 +1,2 @@
-# TraceDonation
-GDSC Solution Challenge (TraceDonation)
+# TraceDonationApp
+GDSC Solution Challenge 2023 (TraceDonationApp)
